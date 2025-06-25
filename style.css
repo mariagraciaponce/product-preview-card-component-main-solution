@@ -88,6 +88,9 @@ button {
 button img {
     width: 13px;
 }
+button:hover {
+    background-color: var(--Green700);
+}
 
 @media (min-width: 48em) {
     .container {
